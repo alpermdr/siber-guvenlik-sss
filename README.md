@@ -317,6 +317,7 @@ Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz]
 * [Pentest Cheat Sheets](https://github.com/Tib3rius/Pentest-Cheatsheets)
 * [Reverse Shell Generator](https://www.revshells.com/) (Site ama cheat sheet niyetine geçer)
 * [GTFOBins](https://gtfobins.github.io/) (Linux yetki yükseltme için)
+* [Prompt Engineering](https://github.com/alpermdr/promp-muhendisligi-cheet-sheet/) (Yapay zeka için)
 
 <a name="filmler"></a>
 ### 🎬 Filmler & Diziler (Motivasyon)
